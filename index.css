@@ -1,0 +1,17 @@
+.container{
+    width: 600px;
+    height: 150px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+.container form button{
+    height: 30px;
+}
+.container form input{
+    width: 400px;  
+    height: 30px;
+}
